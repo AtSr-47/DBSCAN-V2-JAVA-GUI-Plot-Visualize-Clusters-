@@ -41,19 +41,19 @@ expandCluster(P, N, C, eps, MinPts)
 ![Capture 3](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%203.PNG)
 		 
 ---------------------------------------
-![Capture 4.0](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%204.PNG)
+![Capture 4.0](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%204.0.PNG)
 		 
 ---------------------------------------
-![Capture 4.1](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%205.PNG)
+![Capture 4.1](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%204.1.PNG)
 		 
 ---------------------------------------
-![Capture 5](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%206.PNG)
+![Capture 5](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%205.PNG)
 		 
 ---------------------------------------
-![Capture 6](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%207.PNG)
+![Capture 6](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%206.PNG)
 		 
 ---------------------------------------
-![Capture 7](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture 7.PNG)
+![Capture 7](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/ScreenshotsCapture%207.PNG)
 		 
 ---------------------------------------
 
