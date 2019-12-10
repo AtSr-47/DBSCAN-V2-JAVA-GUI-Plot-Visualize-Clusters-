@@ -1,6 +1,4 @@
-# DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-
-DBSCAN V2+ JAVA GUI (Plot/Visualize Clusters)
-
+# DBSCAN-V2 JAVA GUI (Plot/Visualize Clusters)
 ![Capture 00](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%2000.PNG)
 		 
 ---------------------------------------
