@@ -1,16 +1,5 @@
 # DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-
 DBSCAN V2+ JAVA GUI (Plot/Visualize Clusters)
-DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a data clustering algorithm that finds a number of clusters starting from the estimated density distribution of corresponding nodes.
-DBSCAN is one of the most common clustering algorithms and also most cited in scientific literature.
-DBSCAN requires two parameters: e (eps)-threshold distance and the minimum number of points required to form a cluster (minPts).
-It starts with an arbitrary starting point that has not been visited. This point's e-neighborhood is retrieved,
-and if it contains sufficiently many points, a cluster is started. Otherwise, the point is labeled as noise. 
-Note that this point might later be found in a sufficiently sized e-environment of a different point and hence be made part of a cluster.
-
-If a point is found to be part of a cluster, its e-neighborhood is also part of that cluster. Hence, all points that are
-found within the e-neighborhood are added, as is their own e-neighborhood. This process continues until the cluster is completely found.
-Then, a new unvisited point is retrieved and processed, leading to the discovery of a further cluster or noise.
-
 PSEUDOCODE
 -------------------------------------
 
@@ -37,7 +26,7 @@ expandCluster(P, N, C, eps, MinPts)
          add P' to cluster C
 		 
 ---------------------------------------
-
+![Test Image 1]()
 
 
 
