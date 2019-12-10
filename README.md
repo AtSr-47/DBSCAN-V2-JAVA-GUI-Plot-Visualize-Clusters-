@@ -26,11 +26,14 @@ expandCluster(P, N, C, eps, MinPts)
          add P' to cluster C
 		 
 ---------------------------------------
-![Test Image 1]()
-
-
-
-
+![Capture 00](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 00.PNG)
+![Capture 01](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 01.PNG)
+![Capture 2](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 2.PNG)
+![Capture 3](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 3.PNG)
+![Capture 4](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 4.PNG)
+![Capture 5](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 5.PNG)
+![Capture 6](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 6.PNG)
+![Capture 7](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/tree/master/Screenshots/Capture 7.PNG)
 
 
 
