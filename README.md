@@ -1,4 +1,7 @@
 # DBSCAN-V2 JAVA GUI (Plot/Visualize Clusters)
+By Athmane Srai
+E-mail : athmane.srai@gmail.com
+
 ![Capture 00](https://github.com/AthmaneSrai/DBSCAN-V2-JAVA-GUI-Plot-Visualize-Clusters-/blob/master/Screenshots/Capture%2000.PNG)
 		 
 ---------------------------------------
